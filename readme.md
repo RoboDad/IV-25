@@ -9,7 +9,7 @@ Looking down on the tube with the pins facing upward: Pins are counted CLOCKWISE
 
 Pin 6 is the heater positive.  +2.4V, 35mA +/-5mA
 
-You can swap pins 1 and 6 (i.e., swap heater polarity).  It seems to cause the dim dot to switch ends.
+You can swap pins 1 and 6 (i.e., swap heater polarity).  It seems to cause the dim dot to switch ends.  It almost seems like the heater should be AC to evenly distribute the brightness across all the dots.
 
 Pins 2,3,4,5,7,8,9 are the anodes +25V, 4-10mA?
 
