@@ -4,6 +4,7 @@ Pin 1 is the common heater and cathode ground.  It's the pin that is connected t
 Looking down on the tube with the pins facing upward: Pins are counted CLOCKWISE...
 
 Pin 6 is the heater positive.  +2.4V, 35mA +/-5mA
+You can swap pins 1 and 6 (i.e., swap heater polarity).  It seems to cause the dim dot to switch ends.
 
 Pins 2,3,4,5,7,8,9 are the anodes +25V, 4-10mA?
 
