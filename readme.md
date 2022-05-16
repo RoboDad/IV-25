@@ -7,5 +7,8 @@ Pin 6 is the heater positive.  +2.4V, 35mA +/-5mA
 
 Pins 2,3,4,5,7,8,9 are the anodes +25V, 4-10mA?
 
+ANODE pin ordering:
+![IV25 pinout](https://user-images.githubusercontent.com/12539254/168511312-f22d31ca-6f45-43fb-9f5b-896c306fb96d.jpg)
+
 DATASHEET (in Russian):
 ![image](https://user-images.githubusercontent.com/12539254/168506308-da6dbe01-4c76-4187-8489-e54f5f7b94ae.png)
